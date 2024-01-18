@@ -7,9 +7,9 @@ github:
   path: "content/index.md"
 last_updated: 2020-04-28
 # translators:   # delete the '#' and the space at the beginning of each line below that you use
-# - name: "first last"
+# - name: "Farrah Gil Pancho"
 # contributors:
-# - name: "given family" 
+# - name: "farrah gil" 
 
 layout: default
 ref: /test-evaluate/tools/  # translators don't change this
